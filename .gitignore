@@ -1,2 +1,30 @@
-.mp4
-.dat
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+*.dat
+*.pth
+
+# Videos
+*.mp4
+*.gif
+
+# Atari monitor files
+*.21
+
+# Logs
+*.log
+tensorboard/
+runs/
+
+# OS cruft
+.DS_Store
+Thumbs.db
