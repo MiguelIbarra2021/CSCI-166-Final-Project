@@ -44,8 +44,6 @@
 
   </blockquote>
 
-[![Watch the video](https://raw.githubusercontent.com/MiguelIbarra2021/CSCI-166-Final-Project/main/videos/Pong/DQN/Initial_Baseline_thumbnail.png)](https://github.com/MiguelIbarra2021/CSCI-166-Final-Project/blob/main/videos/Pong/DQN/Initial_Baseline.mp4?raw=true)
-    
   <h3>Baseline Double DQN</h3>
   <p>Below is the baseline run of the double-DQN model variant.</p>
 
