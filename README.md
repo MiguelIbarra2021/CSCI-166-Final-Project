@@ -31,30 +31,30 @@
 <section>
   <h2><strong>Videos</strong></h2>
   <h3>Baseline DQN:</h3>
-  <p>Below is the baseline run of the single-DQN model varient.</p>
+  <p>Below is the baseline run of the single-DQN model variant.</p>
 
   <blockquote>
 
-  | Environment | Model        | Training Stage   | Video                                                                                                  | Config Index |
-  |-------------|--------------|------------------|--------------------------------------------------------------------------------------------------------|--------------|
-  | Pong        | DQN          | Early (Random)   | <video width="240" controls><source src="videos/Pong/DQN/Initial_Baseline.mp4" type="video/mp4" /></video> | 0 |
-  | Pong        | DQN          | Final (Trained)  | <video width="240" controls><source src="videos/Pong/DQN/Final_Baseline.mp4" type="video/mp4" /></video>               | 0 |
-  | Breakout    | DQN          | Early (Random)   | <video width="240" controls><source src="videos/Breakout/DQN/ALE_Breakout-v5-first-0-20251125-1353.mp4" type="video/mp4" /></video>           | 0 |
-  | Breakout    | DQN          | Final (Trained)  | <video width="240" controls><source src="videos/Breakout/DQN/ALE_Breakout-v5-final-20251125-1433.mp4" type="video/mp4" /></video>           | 0 |
+  | Environment | Model | Training Stage   | Video                                               | Config Index |
+  |-------------|-------|------------------|-----------------------------------------------------|--------------|
+  | Pong        | DQN   | Early (Random)   | [Pong](videos/Pong/DQN/Initial_Baseline.mp4)        | 0 |
+  | Pong        | DQN   | Final (Trained)  | [Pong](videos/Pong/DQN/Final_Baseline.mp4)          | 0 |
+  | Breakout    | DQN   | Early (Random)   | [Breakout](videos/Breakout/DQN/ALE_Breakout-v5-first-0-20251125-1353.mp4) | 0 |
+  | Breakout    | DQN   | Final (Trained)  | [Breakout](videos/Breakout/DQN/ALE_Breakout-v5-final-20251125-1433.mp4)   | 0 |
 
   </blockquote>
     
   <h3>Baseline Double DQN</h3>
-  <p>Below is the baseline run of the double-DQN model varient.</p>
+  <p>Below is the baseline run of the double-DQN model variant.</p>
 
   <blockquote>
 
-  | Environment | Model        | Training Stage   | Video                                                                                                  | Config Index |
-  |-------------|--------------|------------------|--------------------------------------------------------------------------------------------------------|--------------|
-  | Pong        | DQN          | Early (Random)   | <video width="240" controls><source src="videos/Pong/DQN/Initial_Baseline.mp4" type="video/mp4" /></video> | 0 |
-  | Pong        | DQN          | Final (Trained)  | <video width="240" controls><source src="videos/Pong/DQN/Final_Baseline.mp4" type="video/mp4" /></video>               | 0 |
-  | Breakout    | DQN          | Early (Random)   | <video width="240" controls><source src="videos/Breakout/DQN/ALE_Breakout-v5-first-0-20251125-1353.mp4" type="video/mp4" /></video>           | 0 |
-  | Breakout    | DQN          | Final (Trained)  | <video width="240" controls><source src="videos/Breakout/DQN/ALE_Breakout-v5-final-20251125-1433.mp4" type="video/mp4" /></video>           | 0 |
+  | Environment | Model | Training Stage   | Video                                               | Config Index |
+  |-------------|-------|------------------|-----------------------------------------------------|--------------|
+  | Pong        | DQN   | Early (Random)   | [Pong](videos/Pong/DQN/Initial_Baseline.mp4)        | 0 |
+  | Pong        | DQN   | Final (Trained)  | [Pong](videos/Pong/DQN/Final_Baseline.mp4)          | 0 |
+  | Breakout    | DQN   | Early (Random)   | [Breakout](videos/Breakout/DQN/ALE_Breakout-v5-first-0-20251125-1353.mp4) | 0 |
+  | Breakout    | DQN   | Final (Trained)  | [Breakout](videos/Breakout/DQN/ALE_Breakout-v5-final-20251125-1433.mp4)   | 0 |
 
   </blockquote>
 </section>
