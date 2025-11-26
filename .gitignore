@@ -14,7 +14,6 @@ __pycache__/
 *.pth
 
 # Videos
-*.mp4
 *.gif
 
 # Atari monitor files
