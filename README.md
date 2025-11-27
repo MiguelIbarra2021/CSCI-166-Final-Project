@@ -53,8 +53,8 @@
   |-------------|--------------|------------------|-----------------------------------------------------|--------------|
   | Pong        | Double DQN   | Early (Random)   | [Pong](https://miguelibarra2021.github.io/CSCI-166-Final-Project/videos/Pong/Double_DQN/Initial_Baseline.mp4)        | 0 |
   | Pong        | Double DQN   | Final (Trained)  | [Pong](https://miguelibarra2021.github.io/CSCI-166-Final-Project/videos/Pong/Double_DQN/Final_Baseline.mp4)          | 0 |
-  | Breakout    | Double DQN   | Early (Random)   | [Breakout](https://miguelibarra2021.github.io/CSCI-166-Final-Project/videos/Breakout/Double_DQN/ALE_Breakout-v5-first-0-20251125-1353.mp4) | 0 |
-  | Breakout    | Double DQN   | Final (Trained)  | [Breakout](https://miguelibarra2021.github.io/CSCI-166-Final-Project/videos/Breakout/Double_DQN/ALE_Breakout-v5-final-20251125-1433.mp4)   | 0 |
+  | Breakout    | Double DQN   | Early (Random)   | [Breakout](https://miguelibarra2021.github.io/CSCI-166-Final-Project/videos/Breakout/Double_DQN/ALE_Breakout-v5-first-1-20251125-1433.mp4) | 0 |
+  | Breakout    | Double DQN   | Final (Trained)  | [Breakout](https://miguelibarra2021.github.io/CSCI-166-Final-Project/videos/Breakout/Double_DQN/ALE_Breakout-v5-final-20251125-1516.mp4)   | 0 |
 
   </blockquote>
 </section>
