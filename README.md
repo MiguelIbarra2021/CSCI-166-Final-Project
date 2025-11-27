@@ -9,7 +9,7 @@
 
 <section>
   <h2><strong>Hyperparameter & Tuning Tables</strong></h2>
-  <p>Below is the catelog of each experiment done in this project.</p>
+  <p>Below is the catalog of each experiment done in this project.</p>
   
   <section>
 
@@ -43,7 +43,7 @@
   | Breakout    | DQN   | Final (Trained)  | [Breakout](videos/Breakout/DQN/ALE_Breakout-v5-final-20251125-1433.mp4)   | 0 |
 
   </blockquote>
-    
+
   <h3>Baseline Double DQN</h3>
   <p>Below is the baseline run of the double-DQN model variant.</p>
 
